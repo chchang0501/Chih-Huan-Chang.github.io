@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
+Currently, I'm looking for a PhD position in Algebraic goemetry.
 I am a research assistant (1 year trainee) at Academia Sinica, advised by [Adeel Khan](https://www.preschema.com).
 Before coming to Academia Sinica I was a master student at the National Taiwan University advised by [Hsueh-Yung Lin](https://homepage.ntu.edu.tw/~hsuehyunglin/).
 
