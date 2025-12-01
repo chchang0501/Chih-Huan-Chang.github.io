@@ -11,35 +11,15 @@ Before coming to Academia Sinica I was a master student at the National Taiwan U
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
+- **Enumerative geometry:** Donaldson-Thomas invariants and its categorifications
 - **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
 
-## News
-
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
+## Talks
+- 2025 11, Motivic DT/PT Correspondence for Calabi--Yau threefolds, Academia Sinica [Website](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15652)
 
 ## Papers
 
 {% include_relative _includes/publications.html %}
 
 #### Organizer 
-- [Good Moduli space workshop](https://sites.google.com/view/good-moduli-space-camp/), Hualian
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
+- [Good Moduli space workshop](https://sites.google.com/view/good-moduli-space-camp/), 2025 Hualian
